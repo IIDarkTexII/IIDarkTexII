@@ -1,4 +1,4 @@
-### Hi everyone I´m Texis ✌
+###                                 Hi everyone! I´m Texis ✌
 
 <!--
 **IIDarkTexII/IIDarkTexII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
