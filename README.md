@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone! I´m Texis ✌</h1> 
-<h2 align="center">Web Development Apprentice and Medical Student</h2>
+<h2 align="center">Web Development Apprentice and Medical Student🧑‍⚕️</h2>
 <img src="https://c.tenor.com/U8n9Thgtxm8AAAAC/baby-yoda-hi.gif" align="right" width="35%">
 
 ```javascript
