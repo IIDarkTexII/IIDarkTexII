@@ -26,6 +26,5 @@ const Texis = {
 <p align="left">
 <a href="https://twitter.com/AlejandroTexis4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="io" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alejandro-texis-md/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="texislk" height="30" width="40" /></a>
-<a href="https://instagram.com/no.compila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="no.compila" height="30" width="40" /></a>
-<a href="https://jpyamamoto.com/posts/index.xml" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://jpyamamoto.com/posts/index.xml" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_alejandrotexis_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig" height="30" width="40" /></a>
 </p>
