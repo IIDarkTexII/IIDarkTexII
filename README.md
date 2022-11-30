@@ -2,14 +2,14 @@
 <h2 align="center">Web development apprentice and medical estudent</h2>
 <img src="https://c.tenor.com/U8n9Thgtxm8AAAAC/baby-yoda-hi.gif" align="right" width="35%">
 
-javascript
+```javascript
 const Poncho = {
   pronouns: 'He' | 'Him',
   code: ['Javascript','HTML', 'CSS', 'Python'], 
   tools: ['Node', 'Azure', "VS Code"],
   areas: ["Frontend"],
 }
-
+```
 
 ### I'm currently learning 📙:
 
