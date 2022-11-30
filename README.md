@@ -3,11 +3,11 @@
 <img src="https://c.tenor.com/U8n9Thgtxm8AAAAC/baby-yoda-hi.gif" align="right" width="35%">
 
 ```javascript
-const Poncho = {
+const Texis = {
   pronouns: 'He' | 'Him',
-  code: ['Javascript','HTML', 'CSS', 'Python'], 
-  tools: ['Node', 'Azure', "VS Code"],
-  areas: ["Frontend"],
+  code: ['Javascript','HTML', 'CSS', 'JAVA'], 
+  tools: ['Node', 'Azure', "VS Code", "React"],
+  areas: ["Frontend" , "Back-end"],
 }
 ```
 
