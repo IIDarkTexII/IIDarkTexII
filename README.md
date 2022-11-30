@@ -22,10 +22,12 @@ const Texis = {
 
 
 
-## Topics of Interest 💬
+## Topics of Interest ❗
 - Web Development 🌐
 - Cloud Computing ☁️
-- UI / UX ✏️
+- UI / UX 🎨
+- Responsive Design 🧑‍💻
+- CSS Animations 🏃
 
   
 ## Contact me and let's study:
