@@ -10,6 +10,8 @@ const Texis = {
   tools: ['Node', 'Azure', "VS Code", "React"],
   areas: ["Frontend" , "Back-end"],
 }
+
+
 ```
 
 ### I'm currently learning 🧐:
