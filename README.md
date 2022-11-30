@@ -1,2 +1,2 @@
 <h1 align="center">Hi everyone! I´m Texis ✌</h1> 
-<img src="https://tenor.com/bftQl.gif" align="right" width="35%">
+<img src="<div class="tenor-gif-embed" data-postid="16043627" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/hello-there-private-from-penguins-of-madagascar-hi-wave-hey-there-gif-16043627">Hello There Private From Penguins Of Madagascar GIF</a>from <a href="https://tenor.com/search/hello+there-gifs">Hello There GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>" align="right" width="35%">
