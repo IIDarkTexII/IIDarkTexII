@@ -1,6 +1,6 @@
 <h1 align="center">Hi everyone! I´m Texis ✌</h1> 
 <h2 align="center">Web Development Apprentice and Medical Student🧑‍⚕️</h2>
-<img src="https://giphy.com/gifs/HBOMax-joker-hbo-max-hbomax-0kd1U3BRIA6b6rhDQx" align="right" width="35%">
+<img src= <iframe src="https://giphy.com/embed/0kd1U3BRIA6b6rhDQx" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/HBOMax-joker-hbo-max-hbomax-0kd1U3BRIA6b6rhDQx">via GIPHY</a></p> align="right" width="35%">
 
 
 ```javascript
