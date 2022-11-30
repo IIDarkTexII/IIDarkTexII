@@ -1,4 +1,5 @@
 <h1 align="center">Hi everyone! I´m Texis ✌</h1> 
+<h3 align="center">Web development apprentice and medical estudent</h3>
 <img src="https://c.tenor.com/U8n9Thgtxm8AAAAC/baby-yoda-hi.gif" align="right" width="35%">
 
 
