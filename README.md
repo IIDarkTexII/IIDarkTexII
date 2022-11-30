@@ -17,6 +17,7 @@ const Texis = {
 <a href="" target="_blank"> <img src="https://www.ux-ui.net/ux/uploads/2017/03/ux-ui-logo.svg" alt="UI" width="70" height="40"/> </a>
 <a href="https://nodejs.org/en/" target="_blank"> <img src="https://nodejs.org/static/images/logo.svg" alt="node" width="50" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://1000marcas.net/wp-content/uploads/2020/11/MySQL-logo.png" alt="sql" width="70" height="40"/> </a>
+<a href="https://www.mongodb.com/home" target="_blank"> <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" alt="mongo" width="50" height="50"/> </a>
 
 
 ## Topics of Interest 💬
