@@ -27,4 +27,5 @@ const Texis = {
 <a href="https://twitter.com/AlejandroTexis4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="io" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alejandro-texis-md/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="texislk" height="30" width="40" /></a>
 <a href="https://www.instagram.com/_alejandrotexis_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ig" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100008965758164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="fb" height="30" width="40" /></a>
 </p>
