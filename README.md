@@ -5,7 +5,10 @@
 
 ```javascript
 const Texis = {
+  name: 'Alejandro Texis',
+  age: '21',
   pronouns: 'He' | 'Him',
+  aboutme: 'I am studying web development autonomously to be able to work as a developer', 
   code: ['Javascript','HTML', 'CSS', 'JAVA'], 
   tools: ['Node', 'Azure', "VS Code", "React"],
   areas: ["Frontend" , "Back-end"],
